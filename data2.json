@@ -1,0 +1,28 @@
+{
+
+    "users":
+    [
+        {
+        "id": 1,
+        "name": "Clark Kent",
+        "title": "President",
+        "description": "Clark Kent is a very strong ruler and always makes sure that everyone is safe at the end of the day.",
+        "image": "./images/president.jpg"
+       
+    },
+    {
+        "id": 2,
+        "name": "Jake Johnson",
+        "title": "Vice President",
+        "description": "Jake is a very intelligent and well articulated engineering student.",
+        "image": "./images/vp.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Stacia Drey",
+        "title": "Chief of Staff",
+        "description": "Hello! I am a junior from Marion, Iowa. Outside of student government, I am involved in political campaigns and the Iowa State Daily. I enjoy running and reading in my free time.",
+        "image": "./images/COS.jpg"
+    }
+    ]
+    }

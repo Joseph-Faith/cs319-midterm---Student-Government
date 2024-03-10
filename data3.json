@@ -1,0 +1,47 @@
+{
+    "users":
+    [
+    {   
+        "id": 1,
+        "name": "Peter Smith",
+        "title": "VP of Marketing",
+        "description": "Peter is top of her class in marketing here at ISU.",
+        "image": "./images/VPM.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Joe Dirt",
+        "title": "VP of Student Affairs",
+        "description": "Joe is a criminal justice major at Iowa State and also VP of risk managment for his fraternity.",
+        "image": "./images/VPSA.jpg"
+    },
+    {   
+        "id": 3,
+        "name": "Erik Braun",
+        "title": "Director of Outreach",
+        "description": "Mechanical engineer who loves sports and hanging out with my brothers!",
+        "image": "./images/DOO.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Noele Horette",
+        "title": "VP of Event Manegment",
+        "description": "Noele likes to study in Parks library with her friends.",
+        "image": "./images/VPM.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Elizabeth Kronwall",
+        "title": "Sr. Director of Communications",
+        "description": "Elizabeth enjoys walks around campus, especially in the fall.",
+        "image": "./images/DOC.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Linda Chefsky",
+        "title": "Director of Food",
+        "description": "Linda loves to cook, especially for her kids. But will also cook for large groups regularly.",
+        "image": "./images/DOF.jpg"
+    }
+    ]
+    }

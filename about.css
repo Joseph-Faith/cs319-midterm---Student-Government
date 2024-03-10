@@ -1,0 +1,57 @@
+h1 {
+    font: Verdana;
+    font-size: xx-large;
+    color: brown;
+    text-align: center;
+}
+h2 {
+    text-align: center;
+    font: Times;
+    color: black;
+}
+h3 {
+    text-align: center;
+    font: arial;
+    color: gray;
+}
+h4 {
+    text-align: center;
+    color: pink;
+    background-color: blue;
+}
+
+ul .name {
+    font: serif;
+    font-size: large;
+    color: turquoise;
+}
+ul .email {
+font: times;
+font-size: large;
+color: red;
+}
+
+.topnav {
+    background-color: red;
+    overflow: hidden;
+    text-align: center;
+}
+
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+.topnav a.active {
+    background-color: #04AA6D;
+    color: white;
+}
